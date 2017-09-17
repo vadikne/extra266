@@ -8,23 +8,13 @@ public class Ex1 {
         fillRandomArray(arr);
         int k = 3;
         int sumRes = 0;
-//        for(int i =1; i < arr.length; i++){
-//            arr[i]=(int)(Math.random()*10);
-//            if (arr[i]%k==0&&arr[i]!=0) {
-//                sumRes = sumRes + arr[i];
-//                System.out.println("i=" + i+ "  arr="+arr[i] + "   sum = " + sumRes);
-//            }
-//            else System.out.println("else"+ arr[i]);
-//        }
-       for (int i: arr){
+
+       for (int i=0;i<arr.length; i++){
            if (arr[i]%k==0&&arr[i]!=0) {
                sumRes = sumRes + arr[i];
                System.out.println("i=" + i+ "  arr="+arr[i] + "   sum = " + sumRes);
            }
-           else System.out.println("else"+ arr[i]);
        }
-
-
     }
             public static int[] fillRandomArray ( int arr[]){
             for (int i = 0; i < arr.length; i++) {

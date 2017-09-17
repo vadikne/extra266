@@ -1,2 +1,4 @@
 Ex1.fillRandomArray
 Ex59.fillDiff
+Ex68.lineLenght
+Ex71.moveOnOne
