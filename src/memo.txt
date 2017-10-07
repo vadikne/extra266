@@ -2,3 +2,5 @@ Ex1.fillRandomArray
 Ex59.fillDiff
 Ex68.lineLenght
 Ex71.moveOnOne
+Ex76.sortShella
+Ex80.printArr(int arr[][])
