@@ -5,3 +5,4 @@ Ex71.moveOnOne
 Ex76.sortShella
 Ex80.printArr(int arr[][])
 Ex98.changeBlock
+Ex110.indexMaxOfRow .indexMinOfRow(int [][]arr,int i)
