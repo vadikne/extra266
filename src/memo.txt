@@ -7,3 +7,5 @@ Ex80.printArr(int arr[][])
 Ex98.changeBlock
 Ex110.indexMaxOfRow .indexMinOfRow(int [][]arr,int i)
 Ex125.rowSum(int[]brr)
+Ex134.sumOfCol(int[][]arr,int j)
+Ex138.sortDown(int []arr)

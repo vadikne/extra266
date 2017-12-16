@@ -60,7 +60,6 @@ public class Ex110 {
                 max=arr[j][i];
                 indexMaxOfCol=j;
             }
-
         }
         return indexMaxOfCol;
     }
